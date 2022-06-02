@@ -5,7 +5,7 @@ PHP
 [![Linkedin Badge](https://img.shields.io/badge/Henrique%20Cicero-721816?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriqueccicero/)](https://www.linkedin.com/in/henriqueccicero/) 
 [![Gmail Badge](https://img.shields.io/badge/-henrique.c.cicero@hotmail.com-721816?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrique.c.cicero@hotmail.com)](mailto:henrique.c.cicero@hotmail.com)
 
-Eu sou bacheralado em Engenharia da Computação e atualmente trabalho como suporte na Reloponto.
+Bacharel em Engenharia da Computação e atualmente trabalho como suporte na Reloponto.
 
 ### 👨🏻‍💻Linguaguens:</h3>
 
